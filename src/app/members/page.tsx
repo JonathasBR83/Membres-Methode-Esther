@@ -337,7 +337,7 @@ export default function MembersPage() {
                   <Mail className="h-4 w-4" />
                   <strong className="text-foreground">Soutien :</strong>
                   <a href="mailto:apoyo@infodigitalexpress.shop" className="text-foreground hover:underline">
-                    apoyo@infodigitalexpress.shop
+                    support@infodigitalexpress.shop
                   </a>
                 </p>
                 <p className="mt-4">
